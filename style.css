@@ -1,6 +1,10 @@
 
 p {
+<<<<<<< HEAD
 	acolor: red;
+=======
+	bcolor: red;
+>>>>>>> dwa
 	font-size: 10px;
 	padding: 10px 0;
 	max-size: 1200px;
